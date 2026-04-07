@@ -22,10 +22,10 @@ https://www.amazon.in
 ## Screenshots
 
 ### Home Page
-![Home](Screenshots/home.png)
+![home](home.png)
 
 ### Login Page
-![Login](Screenshots/login.png)
+![login](login.png)
 
 ### Product Page
-![Product](Screenshots/product.png)
+![product](product.png)
